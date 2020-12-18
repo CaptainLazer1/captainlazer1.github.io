@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 html {
-    background: #b5eaff;
+    background: #9edefa;
 }
 
 header {
-    background: #fdf7bd;
+    background: #434b55;
     border-bottom: none;
 }
 
@@ -18,9 +18,13 @@ header h1 {
 }
 
 .wrapper {
-    background: #fbd8ff;
+    background: #c6eafa;
 }
 
 section {
     border-top: none;
+}
+
+footer {
+    background: #9edefa;
 }
