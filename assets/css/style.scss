@@ -9,6 +9,12 @@ html {
 
 header {
     background: #fdf7bd;
+    border-bottom: none;
+}
+
+header h1 {
+    text-shadow: none;
+    color: #000000;
 }
 
 .wrapper {
