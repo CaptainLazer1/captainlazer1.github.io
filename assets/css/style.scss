@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 html {
-    background: #9edefa;
+    background: #e6f8ff;
 }
 
 header {
@@ -17,6 +17,10 @@ header h1 {
     color: #000000;
 }
 
+header h2 {
+    color: #000000
+}
+
 .wrapper {
     background: #c6eafa;
 }
@@ -26,5 +30,5 @@ section {
 }
 
 footer {
-    background: #9edefa;
+    background: #e6f8ff;
 }
